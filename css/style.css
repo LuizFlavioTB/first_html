@@ -1,35 +1,26 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
 .container {
   margin: 50px auto 5px;
   padding-bottom: 5px;
-  background-color: black;
-  width: 800px;
-  height: auto;
-  text-align: center;
+  /* background-color: black; */
+  background-image: url("../img/foto.jpeg");
+  background-repeat: no-repeat; 
+  background-size: 100%;
+  width: 80%;
+  height: 100vh;
 }
 
 #title {
-  color: white;
-  font-size: 100px;
+  color: black;
+  font-size: 45px;
+  padding: 10px;
 }
 
-.one {
-  color: white;
-  font-size: 80px;
-}
-
-.two {
-  color: rgb(255, 255, 255);
-  font-size: 80px;
-}
-.three {
-  color: rgb(255, 255, 255);
-  font-size: 80px;
-}
-.four {
-  color:white;
-  font-size: 80px;
-}
-.five {
-  color: white;
-  font-size: 80px;
+.one, .five {
+  color: rgb(224 247 45);
+  font-size: 40px;
+  padding: 15px;
 }
