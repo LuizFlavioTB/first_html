@@ -1,0 +1,22 @@
+.container {
+  margin: 50px auto;
+  background-color: yellow;
+  width: 400px;
+  height: 700px;
+  text-align: center;
+}
+
+#title {
+  color: orange;
+  font-size: 100px;
+}
+
+.one {
+  color: green;
+  font-size: 30px;
+}
+
+.two {
+  color: blue;
+  font-size: 80px;
+}
