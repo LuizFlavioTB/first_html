@@ -1,22 +1,35 @@
 .container {
-  margin: 50px auto;
-  background-color: yellow;
-  width: 400px;
-  height: 700px;
+  margin: 50px auto 5px;
+  padding-bottom: 5px;
+  background-color: black;
+  width: 800px;
+  height: auto;
   text-align: center;
 }
 
 #title {
-  color: orange;
+  color: white;
   font-size: 100px;
 }
 
 .one {
-  color: green;
-  font-size: 30px;
+  color: white;
+  font-size: 80px;
 }
 
 .two {
-  color: blue;
+  color: rgb(255, 255, 255);
+  font-size: 80px;
+}
+.three {
+  color: rgb(255, 255, 255);
+  font-size: 80px;
+}
+.four {
+  color:white;
+  font-size: 80px;
+}
+.five {
+  color: white;
   font-size: 80px;
 }
